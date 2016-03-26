@@ -1,6 +1,6 @@
 {
   "name": "generator-react-select-bug",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Yeoman Generator for creating react-select bugs",
   "homepage": "",
   "author": {
